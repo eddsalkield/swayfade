@@ -1,0 +1,7 @@
+*.pyc
+*.tar.gz
+*.rpm
+*.log
+dist/
+packaging/fedora/noarch
+packaging/fedora/swayfade-*
